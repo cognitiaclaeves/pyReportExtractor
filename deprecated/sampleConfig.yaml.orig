@@ -1,0 +1,71 @@
+
+
+
+Control:
+  ReportClass: AclassName,
+  DumpDataStructures: True,
+  Loglevel: debug,
+  InputPath: None,
+  Workpath: None,
+  
+
+# """
+# 	Control:(
+# 		ReportClass: AClassname,
+# 		DumpDataStructures: True,
+# 		LogLevel: ‘debug’,
+# 		InputDirectory:   # Must contain current files, will rename after processing writes successfully,
+# 		WorkDirectory:   # Must be empty when script starts
+# 	)
+
+# 	ColumnStructures: [
+# 		‘reportName’: [
+# 		     ‘dataElementName’:
+# 			‘columnName’: ( newDataColumnNumber, reportColumnNumber, start, length )
+# # according to white space parsing ( - for None, for columnNumber )
+# 	# if no length, get to the end of the number
+# 		     ]
+	
+# 		‘reportName2’:[ … ]
+# 	]
+
+	
+# 	Regex:
+# 		regex_name: ‘regex string’
+
+
+# 	# Instructions to process batch of files, processed from top to bottom
+# ProcessBatch: (
+# 		processFile: [ ‘report_name’: ‘fname’,
+#         exclude_targets: [ ‘target1’,’target2’],
+#         exclude_regex: ‘regex_name’,
+#         ‘directives’:  (
+# 			( ‘Directive’, ‘dataElementName’, ... ),  # Runs directive on all lines in file
+# 			( ‘matchTarget’, ‘dataElementName’, ‘target’,  )
+# 			( ‘matchRegEx’, ‘dataElementName’, ‘regex_name’,  )
+			
+# 		)
+# 		processFile: (
+# 			( ‘Directive’, ‘dataElementName’, ... ),
+# 		)
+
+# getLookupTable:  [ ‘fileName’: ‘commissionTable’, ‘lookup_name’: ‘thisLookupName’ ]
+
+# processData: [ ‘data_element_name’: ‘dataElementName’ ],
+# 			‘directives’: (
+# 			( ‘addLookupMatchedToColumn’, ‘newColumnName’, ‘matchOnColumnName’ )
+# # this is the trick … can you add a new line with a split commission?
+# 			( ‘addSplitLookupMatchedToColumns’, ‘dataElementName’, ’matchOnColumnName’, ‘lookupTableName’, ‘newColumnName’ )
+
+# 	)
+
+# 	# All data will go into Data[ dataElement ]
+
+# 	WriteBatch:(
+# 		( ‘newWorkbook’, ‘newWorkbook.xlsx’ ),
+# 		( ‘newTab’, ‘tabName’ ),
+# 		( ‘writeDataElement’, ‘dataElementName’ ),
+# 		( ‘exec’, writeDataElement, ‘dataElementName’ ),
+# 		( ‘exec’, ‘formatTab’, ‘tabName’ ),
+# 	)
+# """

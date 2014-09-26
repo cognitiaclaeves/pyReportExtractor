@@ -1,0 +1,816 @@
+2014-09-23 23:20:07,818 - MAIN - DEBUG - Starting MAIN Logger
+2014-09-23 23:20:07,819 - MAIN - INFO - DataCollector: <__main__.ReportDataCollector object at 0x7f54c40c2150>
+2014-09-23 23:20:07,819 - MAIN - INFO - Loading Config: sampleConfig.yaml
+2014-09-23 23:49:57,814 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-23 23:49:57,815 - __MAIN__ - INFO - DataCollector: <__main__.ReportDataCollector object at 0x7f54c40c2310>
+2014-09-23 23:49:57,815 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-23 23:49:57,837 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass
+2014-09-23 23:59:23,733 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-23 23:59:23,757 - __MAIN__ - INFO - DataCollector: <__main__.ReportDataCollector object at 0x7f54bdd1c850>
+2014-09-23 23:59:23,758 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-23 23:59:23,775 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass
+2014-09-23 23:59:23,862 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:01:42,407 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:01:42,408 - __MAIN__ - INFO - DataCollector: <__main__.ReportDataCollector object at 0x7f54c40c23d0>
+2014-09-24 00:01:42,408 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:01:42,426 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass
+2014-09-24 00:01:42,445 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:14:34,357 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:14:34,357 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f54bdd38410>
+2014-09-24 00:14:34,358 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:14:56,940 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:14:56,941 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f54c407bad0>
+2014-09-24 00:14:56,941 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:14:56,954 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:14:56,954 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:16:24,713 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:16:24,714 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f54c407a290>
+2014-09-24 00:16:24,714 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:16:24,736 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:16:24,737 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:16:48,494 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:16:48,495 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f54c4074590>
+2014-09-24 00:16:48,495 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:16:48,514 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:16:48,515 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:17:28,565 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:17:28,565 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f54c4082d50>
+2014-09-24 00:17:28,566 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:17:28,580 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:17:28,581 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 00:18:05,069 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:18:05,070 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c370c10>
+2014-09-24 00:18:05,070 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:18:05,089 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:18:41,767 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:18:41,768 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c3701d0>
+2014-09-24 00:18:41,798 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:18:41,817 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:19:07,110 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:19:07,110 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c370fd0>
+2014-09-24 00:19:07,111 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:19:07,131 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:19:32,500 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:19:32,501 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c120450>
+2014-09-24 00:19:32,501 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:19:32,515 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:19:32,516 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:19:32,517 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff134910>
+2014-09-24 00:19:32,517 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff134910>
+2014-09-24 00:25:13,472 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:25:13,513 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c0b5650>
+2014-09-24 00:25:13,513 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:25:13,538 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:25:13,538 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:25:13,539 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c07acd0>
+2014-09-24 00:25:13,539 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c07acd0>
+2014-09-24 00:26:34,489 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:26:34,490 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c370c10>
+2014-09-24 00:26:34,490 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:26:34,506 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:26:34,506 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:26:34,507 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff1421d0>
+2014-09-24 00:26:34,507 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff1421d0>
+2014-09-24 00:31:59,126 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:31:59,126 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c0b5510>
+2014-09-24 00:31:59,127 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:31:59,140 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:31:59,163 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:31:59,163 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c039f50>
+2014-09-24 00:31:59,164 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c039f50>
+2014-09-24 00:35:50,814 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:35:50,815 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c0a63d0>
+2014-09-24 00:35:50,815 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:35:50,834 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:35:50,835 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:35:50,835 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff142310>
+2014-09-24 00:35:50,836 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff142310>
+2014-09-24 00:36:46,963 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:36:46,964 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c370c10>
+2014-09-24 00:36:47,004 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:36:47,016 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:36:47,017 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:36:47,017 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c0b5a10>
+2014-09-24 00:36:47,018 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f930c0b5a10>
+2014-09-24 00:37:13,682 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:37:13,682 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c120450>
+2014-09-24 00:37:13,682 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:37:13,697 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:37:13,723 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:37:13,723 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff134fd0>
+2014-09-24 00:37:13,724 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff134fd0>
+2014-09-24 00:52:39,019 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 00:52:39,019 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f930c047b50>
+2014-09-24 00:52:39,020 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 00:52:39,035 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 00:52:39,036 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 00:52:39,036 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff143bd0>
+2014-09-24 00:52:39,037 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7f92ff143bd0>
+2014-09-24 08:36:32,851 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:36:32,879 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f98bea18a90>
+2014-09-24 08:36:32,879 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:36:32,899 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:36:32,935 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 08:52:57,176 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:52:57,196 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f98bc1cb190>
+2014-09-24 08:52:57,509 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:52:57,520 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:52:57,520 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 08:56:21,263 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:56:21,263 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f98bc107310>
+2014-09-24 08:56:21,264 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:56:21,283 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:56:21,284 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 08:57:31,756 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:57:31,757 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f98bea18a90>
+2014-09-24 08:57:31,757 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:57:31,773 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:57:31,774 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 08:57:51,002 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:57:51,003 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fa8c4778a90>
+2014-09-24 08:57:51,003 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:57:51,015 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:57:51,149 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 08:58:26,095 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:58:26,096 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fa8c172a610>
+2014-09-24 08:58:26,096 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:58:26,150 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:58:26,151 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 08:58:41,015 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:58:41,015 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f2a8d667a90>
+2014-09-24 08:58:41,016 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:58:41,028 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:58:41,039 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 08:58:41,040 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7f2a8c100250>
+2014-09-24 08:59:38,157 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:59:38,158 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f2a8c0e1cd0>
+2014-09-24 08:59:38,158 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:59:38,171 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:59:38,171 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 08:59:38,172 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7f2a8c0d4ed0>
+2014-09-24 08:59:50,409 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 08:59:50,410 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7ffe16b69a90>
+2014-09-24 08:59:50,411 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 08:59:50,430 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 08:59:50,432 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 08:59:50,433 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7ffe14045250>
+2014-09-24 08:59:50,434 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14045a10>)
+2014-09-24 08:59:50,435 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14045a10>
+2014-09-24 08:59:50,436 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14045a10>
+2014-09-24 09:02:20,495 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 09:02:20,496 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7ffe14026cd0>
+2014-09-24 09:02:20,523 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 09:02:20,534 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 09:02:20,535 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 09:02:20,535 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7ffe1431c790>
+2014-09-24 09:02:20,536 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe1431c5d0>)
+2014-09-24 09:02:20,536 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe1431c5d0>
+2014-09-24 09:02:20,536 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe1431c5d0>
+2014-09-24 09:05:12,607 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 09:05:12,608 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7ffe14315dd0>
+2014-09-24 09:05:12,608 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 09:05:12,624 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 09:05:12,625 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.pyc'>]
+2014-09-24 09:05:12,625 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7ffe14045210>
+2014-09-24 09:05:12,626 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14026c90>)
+2014-09-24 09:05:12,626 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14026c90>
+2014-09-24 09:05:12,627 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7ffe14026c90>
+2014-09-24 09:05:21,844 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 09:05:21,844 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbb50e2a90>
+2014-09-24 09:05:21,844 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 09:05:21,856 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 09:05:21,893 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 09:05:21,894 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7fbbad34f250>
+2014-09-24 09:05:21,894 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbad34fa10>)
+2014-09-24 09:05:21,895 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbad34fa10>
+2014-09-24 09:05:21,895 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbad34fa10>
+2014-09-24 10:09:28,942 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:09:29,040 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbad330cd0>
+2014-09-24 10:09:29,041 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:09:29,053 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClas
+2014-09-24 10:09:29,054 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 10:13:08,551 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:13:08,552 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbb404f4d0>
+2014-09-24 10:13:08,552 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:13:08,570 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClas
+2014-09-24 10:13:08,571 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 10:13:08,572 - __MAIN__ - CRITICAL - Bad class name in config file: SampleDataCollectorClas
+2014-09-24 10:13:33,492 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:13:33,492 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbb4098c10>
+2014-09-24 10:13:33,493 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:13:33,514 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClass.SampleDataCollectorClass
+2014-09-24 10:13:33,515 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorClass' from '/home/jae/notebooks/SampleDataCollectorClass.py'>]
+2014-09-24 10:13:33,516 - RPT_DATA - DEBUG - Initializing: <ReportDataClass.ReportDataClass object at 0x7fbbacdf9e50>
+2014-09-24 10:13:33,516 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbacdf9550>)
+2014-09-24 10:13:33,517 - DATACOLL - DEBUG - Initializing <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbacdf9550>
+2014-09-24 10:13:33,517 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorClass.SampleDataCollectorClass object at 0x7fbbacdf9550>
+2014-09-24 10:13:46,653 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:13:46,654 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbb4098850>
+2014-09-24 10:13:46,654 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:13:46,673 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClas.SampleDataCollectorClass
+2014-09-24 10:14:54,025 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:14:54,025 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbb4098150>
+2014-09-24 10:14:54,026 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:14:54,039 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorClas.SampleDataCollectorClass
+2014-09-24 10:14:54,039 - __MAIN__ - CRITICAL - Bad module name in config file: SampleDataCollectorClas
+2014-09-24 10:23:30,323 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:23:30,324 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbad330cd0>
+2014-09-24 10:23:30,324 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:23:30,337 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:23:30,370 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:23:30,371 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7fbbacdfe910>
+2014-09-24 10:23:30,372 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7fbbacdfe810>)
+2014-09-24 10:23:30,372 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fbbacdfe810>
+2014-09-24 10:23:30,372 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7fbbacdfe810>
+2014-09-24 10:24:04,939 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:24:04,939 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbaceabd10>
+2014-09-24 10:24:04,940 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:24:04,953 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorModul.SampleDataCollecto
+2014-09-24 10:24:05,010 - __MAIN__ - CRITICAL - Bad module name in config file: SampleDataCollectorModul
+2014-09-24 10:24:28,650 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:24:28,650 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbace65b90>
+2014-09-24 10:24:28,650 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:24:28,668 - __MAIN__ - DEBUG - Data collector classname: SampleDataCollectorModule.SampleDataCollecto
+2014-09-24 10:24:28,668 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:24:28,669 - __MAIN__ - CRITICAL - Bad class name in config file: SampleDataCollecto
+2014-09-24 10:25:18,932 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:25:18,933 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbad36ba50>
+2014-09-24 10:25:18,933 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:25:18,945 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModuleSampleDataCollector
+2014-09-24 10:25:18,988 - __MAIN__ - CRITICAL - Bad module name in config file: SampleDataCollectorModuleSampleDataCollector
+2014-09-24 10:26:03,784 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:26:03,784 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fbbacea1b50>
+2014-09-24 10:26:03,785 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:26:03,801 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:26:03,802 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:26:03,802 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7fbbace65b50>
+2014-09-24 10:26:03,803 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7fbbace65990>)
+2014-09-24 10:26:03,803 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fbbace65990>
+2014-09-24 10:26:03,804 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7fbbace65990>
+2014-09-24 10:26:32,251 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:26:32,252 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4aca3f3a90>
+2014-09-24 10:26:32,252 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:26:32,263 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:29:19,439 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:29:19,440 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80b1d90>
+2014-09-24 10:29:19,440 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:29:19,453 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:29:19,453 - __MAIN__ - CRITICAL - Custom data collector class is too broken to import.
+2014-09-24 10:29:59,657 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:29:59,658 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80b1d50>
+2014-09-24 10:29:59,658 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:29:59,670 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:29:59,671 - __MAIN__ - CRITICAL - Custom data collector class is too broken to import.
+2014-09-24 10:30:37,481 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:30:37,481 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac83a7190>
+2014-09-24 10:30:37,482 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:30:37,501 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:30:37,502 - __MAIN__ - CRITICAL - Custom data collector class is too broken to import.
+2014-09-24 10:30:37,502 - __MAIN__ - ERROR - Custom data collector class is too broken to import.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 59, in <module>
+    modules=map( __import__, moduleNames )
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 7
+    fish
+       ^
+IndentationError: expected an indented block
+2014-09-24 10:31:31,423 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:31:31,424 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac83a7c10>
+2014-09-24 10:31:31,424 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:31:31,437 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:31:31,438 - __MAIN__ - ERROR - Custom data collector class is too broken to import.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 59, in <module>
+    modules=map( __import__, moduleNames )
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 7
+    fish
+       ^
+IndentationError: expected an indented block
+2014-09-24 10:36:05,208 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:36:05,209 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf650>
+2014-09-24 10:36:05,210 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:36:05,228 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:36:05,230 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:38:55,508 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:38:55,509 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4aca3f3a90>
+2014-09-24 10:38:55,509 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:38:55,523 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:38:55,542 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:39:26,845 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:39:26,846 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80eda90>
+2014-09-24 10:39:26,846 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:39:26,859 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:39:26,859 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:41:08,550 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:41:08,551 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac20efd90>
+2014-09-24 10:41:08,552 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:41:08,588 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:41:08,589 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:41:08,589 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 74, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 9, in __init__
+    test = 0/0
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:42:06,872 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:42:06,872 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8036c10>
+2014-09-24 10:42:06,873 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:42:06,884 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:42:06,885 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:42:06,885 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 74, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 9, in __init__
+    super( SampleDataCollector, self ).__init__()
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:47:52,224 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:47:52,225 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac83a0fd0>
+2014-09-24 10:47:52,225 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:47:52,251 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:47:52,253 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:47:52,254 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 74, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 9, in __init__
+    super( SampleDataCollector, self ).__init__()
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:48:53,084 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:48:53,084 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4aca3f3a90>
+2014-09-24 10:48:53,085 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:48:53,099 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:48:53,100 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:48:53,100 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 74, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 9, in __init__
+    def __init__( self ):
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:50:57,770 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:50:57,771 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081bd0>
+2014-09-24 10:50:57,771 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:50:57,787 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:50:57,788 - __MAIN__ - ERROR - Custom data collector class is too broken to import.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 60, in <module>
+    reload( getattr(modules[0], dataCollectorClassname.split('.')[0] ) )
+AttributeError: 'module' object has no attribute 'SampleDataCollectorModule'
+2014-09-24 10:53:22,295 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:53:22,296 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8036e50>
+2014-09-24 10:53:22,296 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:53:22,310 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:53:22,311 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:53:22,311 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 74, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 9, in __init__
+    self.logger = logging.getLogger( 'DATACOLL' )
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:55:33,889 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:55:33,890 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac83a0fd0>
+2014-09-24 10:55:33,890 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:55:33,909 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:55:33,910 - __MAIN__ - ERROR - Custom data collector class is too broken to import.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 60, in <module>
+    reload( dataCollectorClassname.split('.')[0] )
+TypeError: reload() argument must be module
+2014-09-24 10:56:17,221 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:56:17,222 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4aca3f3a90>
+2014-09-24 10:56:17,222 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:56:17,241 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:56:17,242 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:56:17,243 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac20efc10>
+2014-09-24 10:56:17,243 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac20efe50>)
+2014-09-24 10:56:17,244 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac20efe50>
+2014-09-24 10:56:56,218 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:56:56,220 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf150>
+2014-09-24 10:56:56,220 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:56:56,238 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:56:56,238 - __MAIN__ - ERROR - Custom data collector class is too broken to import.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 60, in <module>
+    reload( modules[0] )
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 7
+    fish
+       ^
+IndentationError: expected an indented block
+2014-09-24 10:57:13,604 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:57:13,604 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf510>
+2014-09-24 10:57:13,605 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:57:13,616 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:57:13,617 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:57:13,618 - __MAIN__ - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 77, in <module>
+    runner.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+  File "/home/jae/notebooks/SampleDataCollectorModule.py", line 8, in __init__
+    a=0/0
+ZeroDivisionError: integer division or modulo by zero
+2014-09-24 10:57:27,222 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 10:57:27,223 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac83a0fd0>
+2014-09-24 10:57:27,224 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 10:57:27,242 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 10:57:27,244 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 10:57:27,244 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac80cf1d0>
+2014-09-24 10:57:27,245 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac80cf310>)
+2014-09-24 10:57:27,245 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac80cf310>
+2014-09-24 11:02:27,590 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:02:27,590 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf7d0>
+2014-09-24 11:02:27,591 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:02:27,630 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:02:50,098 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:02:50,099 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf210>
+2014-09-24 11:02:50,099 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:02:50,115 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:02:50,116 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:02:50,116 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac80368d0>
+2014-09-24 11:02:50,117 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8036bd0>)
+2014-09-24 11:02:50,117 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8036bd0>
+2014-09-24 11:02:50,117 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8036bd0>
+2014-09-24 11:17:04,365 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:17:04,366 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081c50>
+2014-09-24 11:17:04,366 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:17:30,200 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:17:30,201 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081810>
+2014-09-24 11:17:30,201 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:18:12,943 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:18:12,943 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2102e90>
+2014-09-24 11:18:12,944 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:18:51,634 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:18:51,635 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac804ff10>
+2014-09-24 11:18:51,635 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:18:51,677 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:18:51,677 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:18:51,677 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac8081c50>
+2014-09-24 11:18:51,678 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8081bd0>)
+2014-09-24 11:18:51,678 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8081bd0>
+2014-09-24 11:18:51,678 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8081bd0>
+2014-09-24 11:23:25,317 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:23:25,317 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2111a10>
+2014-09-24 11:23:25,318 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:23:55,072 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:23:55,073 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081810>
+2014-09-24 11:23:55,073 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:23:55,088 - __MAIN__ - INFO - Config changing logger to level: 10
+2014-09-24 11:23:55,113 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:23:55,113 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:23:55,114 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac210f7d0>
+2014-09-24 11:23:55,114 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac210f550>)
+2014-09-24 11:23:55,115 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac210f550>
+2014-09-24 11:23:55,115 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac210f550>
+2014-09-24 11:24:20,710 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:24:20,710 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081c10>
+2014-09-24 11:24:20,740 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:24:20,761 - __MAIN__ - INFO - Config changing logger to level: 20
+2014-09-24 11:24:20,762 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:24:20,762 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:24:20,763 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac2147090>
+2014-09-24 11:24:20,763 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2147910>)
+2014-09-24 11:24:20,764 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2147910>
+2014-09-24 11:24:20,764 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2147910>
+2014-09-24 11:28:19,700 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:28:19,701 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081c50>
+2014-09-24 11:28:19,701 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:28:19,729 - __MAIN__ - INFO - Config changing logger to level: 20
+2014-09-24 11:28:19,730 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:28:19,731 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:28:19,731 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac804fcd0>
+2014-09-24 11:28:19,732 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804ff50>)
+2014-09-24 11:28:19,732 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804ff50>
+2014-09-24 11:28:19,732 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804ff50>
+2014-09-24 11:30:22,603 - __MAIN__ - DEBUG - Starting MAIN Logger
+2014-09-24 11:30:22,603 - __MAIN__ - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2111cd0>
+2014-09-24 11:30:22,603 - __MAIN__ - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:30:22,619 - __MAIN__ - INFO - Config changing logger to level: 20
+2014-09-24 11:30:22,619 - __MAIN__ - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:30:22,620 - __MAIN__ - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:30:22,620 - RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f4ac2102c50>
+2014-09-24 11:30:22,621 - _DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac80cf210>)
+2014-09-24 11:30:22,621 - DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac80cf210>
+2014-09-24 11:30:22,621 - __MAIN__ - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac80cf210>
+2014-09-24 11:37:49,500 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:37:49,500 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2102090>
+2014-09-24 11:37:49,501 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:37:49,547 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:37:49,547 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:37:49,548 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:37:49,548 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2141110>
+2014-09-24 11:38:39,169 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:38:39,170 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80360d0>
+2014-09-24 11:38:39,170 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:38:39,191 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:38:53,810 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:38:53,811 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf0d0>
+2014-09-24 11:38:53,811 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:38:53,831 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:39:15,197 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf1d0>
+2014-09-24 11:39:15,198 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:39:15,211 - main - INFO - Config changing logger to level: 10
+2014-09-24 11:39:15,211 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:39:15,212 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:39:15,212 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804fd10>
+2014-09-24 11:39:22,834 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:39:22,835 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2111a10>
+2014-09-24 11:39:22,836 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:39:22,858 - main - INFO - Config changing logger to level: 10
+2014-09-24 11:39:22,859 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:39:22,860 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:39:22,861 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8081c50>
+2014-09-24 11:40:13,310 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:40:13,311 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf0d0>
+2014-09-24 11:40:13,311 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:40:13,328 - main - INFO - Config changing logger to level: 10
+2014-09-24 11:40:13,329 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:40:13,330 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 11:40:13,330 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8036fd0>
+2014-09-24 11:41:04,588 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:41:04,588 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf1d0>
+2014-09-24 11:41:04,589 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:41:04,605 - main - INFO - Config changing logger to level: 10
+2014-09-24 11:41:04,605 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 11:41:04,606 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 11:41:04,607 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804f950>
+2014-09-24 11:41:04,607 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac804f950>
+2014-09-24 11:41:28,002 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:41:28,003 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081bd0>
+2014-09-24 11:41:28,003 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:41:28,023 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:41:54,429 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac80cf0d0>
+2014-09-24 11:41:54,430 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:41:54,447 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:41:54,448 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2147110>
+2014-09-24 11:52:58,999 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac2111a10>
+2014-09-24 11:52:58,999 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:52:59,019 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:52:59,031 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac8036850>
+2014-09-24 11:55:21,273 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f4ac8081810>
+2014-09-24 11:55:21,274 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:55:21,290 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:55:21,291 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f4ac2141cd0>
+***
+
+2014-09-24 11:55:54,019 - main - DEBUG - Starting MAIN Logger
+2014-09-24 11:55:54,019 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde171c9a90>
+2014-09-24 11:55:54,020 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:55:54,031 - main - INFO - Config changing logger to level: 20
+2014-09-24 11:55:54,033 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde1417b6d0>
+2014-09-24 11:59:01,559 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1417b610>
+2014-09-24 11:59:01,560 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 11:59:01,575 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde1404c750>
+2014-09-24 12:04:56,257 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1408ce50>
+2014-09-24 12:04:56,258 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:04:56,272 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde1404c250>
+2014-09-24 12:04:59,261 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1408cf90>
+2014-09-24 12:04:59,261 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:04:59,282 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde140aad50>
+2014-09-24 12:07:13,081 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde171c9a90>
+2014-09-24 12:07:13,082 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:07:13,100 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde1417bf50>
+2014-09-24 12:07:38,033 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1408ce50>
+2014-09-24 12:07:38,034 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:07:38,053 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde140aa990>
+2014-09-24 12:08:29,346 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1408ced0>
+2014-09-24 12:08:29,347 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:08:29,367 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde140680d0>
+2014-09-24 12:08:47,737 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7fde1408cd90>
+2014-09-24 12:08:47,738 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:08:47,756 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7fde140aaed0>
+2014-09-24 12:10:45,226 - main._DATACOL - INFO - Initializing (<__main__.AbstractReportDataCollector object at 0x7fde1403c8d0>)
+2014-09-24 12:11:41,031 - main.DATACOLL - INFO - Initializing <__main__.SampleDataCollector object at 0x7fde1403cc10>
+2014-09-24 12:11:49,117 - main.DATACOLL - INFO - Initializing <__main__.SampleDataCollector object at 0x7fde1403cc90>
+2014-09-24 12:12:04,138 - main._DATACOL - INFO - Initializing (<__main__.AbstractReportDataCollector object at 0x7fde1403c650>)
+2014-09-24 12:12:04,138 - main.DATACOLL - INFO - Initializing <__main__.SampleDataCollector object at 0x7fde1403cdd0>
+2014-09-24 12:12:22,859 - main.DATACOLL - INFO - Initializing <__main__.SampleDataCollector object at 0x7fde1403ccd0>
+2014-09-24 12:13:08,056 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:13:08,057 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f45cdbe6a90>
+2014-09-24 12:13:08,057 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:13:08,068 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:13:08,070 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:13:08,070 - main.RPT_DATA - INFO - Initializing: <ReportData.ReportData object at 0x7f45cc0c3c10>
+2014-09-24 12:13:08,070 - main._DATACOL - INFO - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3b10>)
+2014-09-24 12:13:08,071 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3b10>
+2014-09-24 12:13:08,071 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3b10>
+2014-09-24 12:15:08,096 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:15:08,097 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f45cc0c3b90>
+2014-09-24 12:15:08,097 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:15:08,115 - main - INFO - Starting file logger, setting all log levels to 20.
+2014-09-24 12:15:08,116 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:15:08,117 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:15:08,117 - main.RPT_DATA - INFO - Initializing: <ReportData.ReportData object at 0x7f45cc065310>
+2014-09-24 12:15:08,118 - main._DATACOL - INFO - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0657d0>)
+2014-09-24 12:15:08,118 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0657d0>
+2014-09-24 12:15:08,118 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0657d0>
+2014-09-24 12:17:35,999 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:17:36,000 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f45cc394f90>
+2014-09-24 12:17:36,000 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:17:36,015 - main - INFO - Config setting all log levels to 20.
+2014-09-24 12:17:36,015 - main.RPT_DATA - INFO - Initializing: <ReportData.ReportData object at 0x7f45cc39b850>
+2014-09-24 12:17:36,016 - main._DATACOL - INFO - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc39b750>)
+2014-09-24 12:17:36,016 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc39b750>
+2014-09-24 12:23:32,997 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f45cc0a5f50>
+2014-09-24 12:23:32,998 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:23:33,018 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:23:33,019 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:23:33,019 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:23:33,020 - main.RPT_DATA - INFO - Initializing: <ReportData.ReportData object at 0x7f45cc0c3990>
+2014-09-24 12:23:33,020 - main._DATACOL - INFO - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3bd0>)
+2014-09-24 12:23:33,020 - main.DATACOLL - INFO - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3bd0>
+2014-09-24 12:23:33,021 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0c3bd0>
+2014-09-24 12:24:41,619 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:24:41,619 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f45cc14b610>
+2014-09-24 12:24:41,620 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:24:41,640 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:24:41,641 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:24:41,651 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.py'>]
+2014-09-24 12:24:41,652 - main.RPT_DATA - INFO - Initializing: <ReportData.ReportData object at 0x7f45cc0d6350>
+2014-09-24 12:24:41,652 - main._DATACOL - INFO - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0d65d0>)
+2014-09-24 12:24:41,653 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0d65d0>
+2014-09-24 12:24:41,653 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f45cc0d65d0>
+2014-09-24 12:25:07,358 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:25:07,359 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f083923fa90>
+2014-09-24 12:25:07,359 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:25:07,378 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:25:07,379 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:25:07,382 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:25:07,382 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f0838120790>
+2014-09-24 12:25:07,383 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>)
+2014-09-24 12:25:07,383 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>
+2014-09-24 12:25:07,384 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>
+2014-09-24 12:25:49,015 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:25:49,016 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f0838106d10>
+2014-09-24 12:25:49,016 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:25:49,032 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:25:49,033 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:25:49,033 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:25:49,033 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380c6410>
+2014-09-24 12:25:49,033 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380c69d0>)
+2014-09-24 12:25:49,033 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380c69d0>
+2014-09-24 12:25:49,033 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380c69d0>
+2014-09-24 12:26:08,946 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:26:08,947 - main - INFO - DataCollector: <__main__.DataCollectorRunner object at 0x7f0838106f10>
+2014-09-24 12:26:08,947 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:26:08,960 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:26:08,961 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:26:08,961 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:26:08,961 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f0838120c90>
+2014-09-24 12:26:08,961 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>)
+2014-09-24 12:26:08,961 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>
+2014-09-24 12:26:08,961 - main - DEBUG - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120910>
+2014-09-24 12:29:12,487 - main - DEBUG - Starting MAIN Logger
+2014-09-24 12:29:12,488 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eef90>
+2014-09-24 12:29:12,488 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:29:12,502 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:29:12,503 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:29:12,503 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:29:12,503 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08381f5790>
+2014-09-24 12:29:12,503 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08381f5c90>)
+2014-09-24 12:29:12,503 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08381f5c90>
+2014-09-24 12:29:12,503 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08381f5c90>
+2014-09-24 12:30:10,376 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 12:30:10,376 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eeed0>
+2014-09-24 12:30:10,376 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:30:10,398 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:30:10,399 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:30:10,399 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:30:10,399 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380d85d0>
+2014-09-24 12:30:10,399 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8190>)
+2014-09-24 12:30:10,399 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8190>
+2014-09-24 12:30:10,399 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8190>
+2014-09-24 12:32:15,481 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 12:32:15,482 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381ad690>
+2014-09-24 12:32:15,482 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:32:15,530 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:32:15,531 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:32:15,531 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:32:15,532 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f0838120d10>
+2014-09-24 12:32:15,532 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120d90>)
+2014-09-24 12:32:15,533 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120d90>
+2014-09-24 12:32:15,533 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f0838120d90>
+2014-09-24 12:33:03,903 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 12:33:03,903 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eeed0>
+2014-09-24 12:33:03,903 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 12:33:03,921 - main - INFO - Config setting all log levels to 10.
+2014-09-24 12:33:03,921 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 12:33:03,922 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 12:33:03,922 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380d8bd0>
+2014-09-24 12:33:03,922 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>)
+2014-09-24 12:33:03,922 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>
+2014-09-24 12:33:03,922 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>
+2014-09-24 13:02:19,727 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:02:19,727 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eef90>
+2014-09-24 13:02:19,727 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:03:13,562 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:03:13,562 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f0838120b90>
+2014-09-24 13:03:13,562 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:03:13,575 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:03:35,771 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:03:35,772 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eef90>
+2014-09-24 13:03:35,772 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:03:35,794 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:03:35,795 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:04:07,214 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:04:07,214 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eeed0>
+2014-09-24 13:04:07,214 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:04:07,229 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:04:07,240 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:04:32,316 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:04:32,316 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381f50d0>
+2014-09-24 13:04:32,316 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:04:32,363 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:04:32,363 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:04:32,364 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:04:32,364 - main - ERROR - Custom data collector class is too broken to instantiate.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/ReportDataCollector.py", line 59, in initialize_dataCollector
+    self.dataCollector=getattr(modules[0], dataCollectorClassname.split('.')[-1] )()
+NameError: global name 'modules' is not defined
+2014-09-24 13:05:12,596 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:05:12,597 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eef90>
+2014-09-24 13:05:12,597 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:05:12,609 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:05:12,610 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:05:12,610 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:05:12,610 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380d8c10>
+2014-09-24 13:05:12,610 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>)
+2014-09-24 13:05:12,610 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>
+2014-09-24 13:05:12,610 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8490>
+2014-09-24 13:19:21,775 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:19:21,775 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08381eeed0>
+2014-09-24 13:19:21,775 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:19:54,212 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:19:54,212 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380d8590>
+2014-09-24 13:19:54,212 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:19:54,229 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:19:54,230 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:19:54,230 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:19:54,230 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380a6f50>
+2014-09-24 13:19:54,230 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6b10>)
+2014-09-24 13:19:54,231 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6b10>
+2014-09-24 13:19:54,231 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6b10>
+2014-09-24 13:20:23,186 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:20:23,186 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380a9e50>
+2014-09-24 13:20:23,186 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:20:23,201 - main - WARNING - Cannot find working path: /home/jae/notebooks/WorkPath.  Attempting to create path
+2014-09-24 13:20:23,202 - main - CRITICAL - Unable to create path: /home/jae/notebooks/WorkPath
+2014-09-24 13:20:52,039 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:20:52,039 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380a6d50>
+2014-09-24 13:20:52,039 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:20:52,052 - main - WARNING - Cannot find working path: /home/jae/notebooks/WorkPath.  Attempting to create path
+2014-09-24 13:20:52,052 - main - CRITICAL - Unable to create path: /home/jae/notebooks/WorkPath
+2014-09-24 13:22:01,059 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:22:01,060 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380d2a50>
+2014-09-24 13:22:01,060 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:22:01,074 - main - WARNING - Cannot find working path: /home/jae/notebooks/WorkPath.  Attempting to create path.
+2014-09-24 13:22:01,074 - main - CRITICAL - Unable to create path: /home/jae/notebooks/WorkPath
+2014-09-24 13:22:26,180 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:22:26,181 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f083800cd10>
+2014-09-24 13:22:26,181 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:22:26,200 - main - WARNING - Cannot find working path: /home/jae/notebooks/WorkPath.  Attempting to create path.
+2014-09-24 13:22:26,220 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:22:26,220 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:22:26,221 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:22:26,221 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380d8510>
+2014-09-24 13:22:26,221 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8810>)
+2014-09-24 13:22:26,221 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8810>
+2014-09-24 13:22:26,221 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8810>
+2014-09-24 13:23:31,975 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:23:31,975 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f083809db50>
+2014-09-24 13:23:31,975 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:23:31,993 - main - WARNING - Cannot find working path: /home/jae/notebooks/WorkPath.  Attempting to create path.
+2014-09-24 13:23:31,994 - main - INFO - Successfully created path: /home/jae/notebooks/WorkPath
+2014-09-24 13:23:31,994 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:23:31,994 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:23:31,995 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:23:31,995 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380a6550>
+2014-09-24 13:23:31,995 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6410>)
+2014-09-24 13:23:31,995 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6410>
+2014-09-24 13:23:31,995 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380a6410>
+2014-09-24 13:24:41,071 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 13:24:41,071 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380d8bd0>
+2014-09-24 13:24:41,071 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 13:24:41,121 - main - INFO - Validated path: /home/jae/notebooks/InputReports exists.
+2014-09-24 13:24:41,122 - main - INFO - Validated path: /home/jae/notebooks/WorkPath exists.
+2014-09-24 13:24:41,122 - main - INFO - Config setting all log levels to 10.
+2014-09-24 13:24:41,122 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 13:24:41,123 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 13:24:41,123 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380b3110>
+2014-09-24 13:24:41,123 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380b3550>)
+2014-09-24 13:24:41,123 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380b3550>
+2014-09-24 13:24:41,123 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380b3550>
+2014-09-24 21:41:32,430 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-24 21:41:32,451 - main - DEBUG - DataCollectorRunner: <__main__.DataCollectorRunner object at 0x7f08380a6cd0>
+2014-09-24 21:41:32,451 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-24 21:41:32,489 - main - DEBUG - Validated path: /home/jae/notebooks/InputReports exists.
+2014-09-24 21:41:32,489 - main - DEBUG - Validated path: /home/jae/notebooks/WorkPath exists.
+2014-09-24 21:41:32,489 - main - INFO - Config setting all log levels to 10.
+2014-09-24 21:41:32,490 - main - DEBUG - Data collector module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-24 21:41:32,526 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/SampleDataCollectorModule.pyc'>]
+2014-09-24 21:41:32,526 - main.RPT_DATA - DEBUG - Initializing: <ReportData.ReportData object at 0x7f08380d8490>
+2014-09-24 21:41:32,526 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8c10>)
+2014-09-24 21:41:32,526 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8c10>
+2014-09-24 21:41:32,526 - main - INFO - DataCollector Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f08380d8c10>

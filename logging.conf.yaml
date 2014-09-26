@@ -1,0 +1,49 @@
+version: 1
+formatters:
+  simple:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    formatter: simple
+    stream: ext://sys.stdout
+  console.main:
+    level: DEBUG
+    # level: INFO
+    class: logging.StreamHandler
+    formatter: simple
+    stream: ext://sys.stdout
+  file:
+    class : logging.handlers.RotatingFileHandler
+    formatter: simple
+    filename: reportDataCollector.log
+    # maxBytes: 1024
+    maxBytes: 1048576
+    backupCount: 3
+loggers:
+  main:
+#    level: DEBUG
+    handlers: [console.main,file]
+    propagate: no
+  main._DATACOL:
+#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
+    handlers: [console.main,file]
+    propagate: no
+  main.DATACOLL:
+#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
+    handlers: [console.main,file]
+    propagate: no
+  main.RPTSTRCT:
+#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
+    handlers: [console.main,file]
+    propagate: no
+  main.RPT_DATA:
+#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
+    handlers: [console.main,file]
+    propagate: no
+
+
+root:
+  level: DEBUG
+  handlers: [console]
+
