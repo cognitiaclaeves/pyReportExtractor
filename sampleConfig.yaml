@@ -1,49 +1,76 @@
-version: 1
-formatters:
-  simple:
-    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-handlers:
-  console:
-    class: logging.StreamHandler
-    formatter: simple
-    stream: ext://sys.stdout
-  console.main:
-    level: DEBUG
-    # level: INFO
-    class: logging.StreamHandler
-    formatter: simple
-    stream: ext://sys.stdout
-  file:
-    class : logging.handlers.RotatingFileHandler
-    formatter: simple
-    filename: reportDataCollector.log
-    # maxBytes: 1024
-    maxBytes: 1048576
-    backupCount: 3
-loggers:
-  main:
-#    level: DEBUG
-    handlers: [console.main,file]
-    propagate: no
-  main._DATACOL:
-#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
-    handlers: [console.main,file]
-    propagate: no
-  main.DATACOLL:
-#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
-    handlers: [console.main,file]
-    propagate: no
-  main.RPTSTRCT:
-#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
-    handlers: [console.main,file]
-    propagate: no
-  main.RPT_DATA:
-#    level: DEBUG # Levels can be controlled by component.  It may not be straightforward, however.
-    handlers: [console.main,file]
-    propagate: no
 
+# Copyright 2014 Douglas J. Norment for SourceApprentice
+# http://www.sourceapprentice.com
 
-root:
-  level: DEBUG
-  handlers: [console]
+Declarations:
+  LogLevels:
+    - &CRITICAL 50
+    - &ERROR 40
+    - &WARNING 30
+    - &INFO 20
+    - &DEBUG 10
+    - &NOTSET 0
+
+Control:
+  ReportCollectorClass: SampleDataCollectorModule.SampleDataCollector
+  DumpDataStructures: True
+  LogLevel: *DEBUG
+  InputPath: InputReports
+  WorkPath: WorkPath
+  
+ColumnStructures:
+  ReportName1: # Multiple reports allowed in order to merge reports into completed XLS file
+    dataGroup1:
+      columnName1: [0,1]  # ( newDataColumnNumber, reportColumnNumber, start, length )
+                          #   reportColumnNumber according to whitespace parsing; '-' if column can't be parsed by whitespace
+                          #   start and length are optional;  if start is given and length is not, then from start until first whitespace
+
+      columnName2: [1,-,15]
+      
+    dataGroup2:
+      columnName3: [0,2]
+      
+  ReportName2:
+    dataGroup3:
+      columnName1: [0,1]
+      
+Regex:
+  # regexName1: '%'
+
+# Instructions to process batch of files, processed from top to bottom
+
+ProcessBatch:
+  # All data will go into Data[ dataElement ]
+    processFile:
+      report_name1:
+      exclude_targets: [target1,target2,]
+      exclude_regexes: [regex_name,]
+      directives:
+        - [ Directive, dataGroupName, ... ]  # Runs directive on all lines in file
+        - [ matchTarget,  dataGroup1, target,  ]
+        - [ matchRegEx,   dataGroup2, regex_name,  ]
+      
+    processFile:
+      report_name2:
+      exclude_targets: [target1,target2, ]
+      exclude_regexes: [regex_name, ]
+      directives:
+        - [ Directive, dataGroupName, ... ]   # Runs directive on all lines in file
+
+GetLookupTable: [ fileName: commissionTable.csv, lookup_name: thisLookupName ]
+
+processData:
+    dataElementName1:
+      directives:
+        - [ addLookupMatchedToColumn, dataGroup1, newColumnName1, columnName1 ]
+        # Now this will be the trick … can I add a new line with a split commission?
+        - [ addSplitLookupMatchedToColumns, dataGroup2, matchOnColumnName, lookupTableName, newColumnName ]
+
+WriteBatch:
+    - [ newWorkbook, newWorkbook.xlsx ]
+    - [ newTab, tabName ]
+    - [ writeDataGroup, dataGroup1 ]
+    - [ exec, writeDataGroup1, dataGroup1 ]
+    - [ exec, formatTab, tabName ]
+
 
