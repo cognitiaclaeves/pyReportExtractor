@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 # Copyright 2014 Douglas J. Norment for SourceApprentice
 # http://www.sourceapprentice.com
@@ -122,7 +123,7 @@ class DataCollectorRunner( object ):
     for eachReportKey in column_structures:
         print eachReportKey, cs[ eachReportKey ]
         logger.debug( "Creating report structure: {}".format( eachReportKey ) )
-        self.dataCollector.
+        # self.dataCollector.
       
         
         
