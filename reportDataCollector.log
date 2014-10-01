@@ -3556,3 +3556,47 @@ ColumnStructures:
          columnName1: {reportCol: 2, newColumn: 0}
 
 
+2014-10-01 15:36:30,634 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 15:36:30,634 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f39f1527a50>
+2014-10-01 15:36:30,634 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 15:36:30,650 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 15:36:30,650 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 15:36:30,650 - main - INFO - Config setting all log levels to 10.
+2014-10-01 15:36:30,650 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 15:36:30,652 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 15:36:30,652 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f39f1549a90>)
+2014-10-01 15:36:30,652 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f39f1549a90>
+2014-10-01 15:36:30,652 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f39f1549a90>
+2014-10-01 15:36:30,652 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f39f1549910>
+2014-10-01 15:36:30,652 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f39f1549910>
+2014-10-01 15:36:30,653 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549590>
+2014-10-01 15:36:30,653 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549590>
+2014-10-01 15:36:30,653 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1={'reportCol': 2, 'newColNum': 0}
+2014-10-01 15:36:30,653 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1={'reportCol': 2, 'newColNum': 0}
+2014-10-01 15:36:30,653 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f39f1549dd0>
+2014-10-01 15:36:30,653 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f39f1549dd0>
+2014-10-01 15:36:30,653 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549fd0>
+2014-10-01 15:36:30,653 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549fd0>
+2014-10-01 15:36:30,653 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2={'startAt': 15, 'newColNum': 1}
+2014-10-01 15:36:30,654 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2={'startAt': 15, 'newColNum': 1}
+2014-10-01 15:36:30,654 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1={'reportCol': 1, 'newColNum': 0}
+2014-10-01 15:36:30,654 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1={'reportCol': 1, 'newColNum': 0}
+2014-10-01 15:36:30,654 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549b50>
+2014-10-01 15:36:30,654 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f39f1549b50>
+2014-10-01 15:36:30,654 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3={'reportCol': 1, 'newColNum': 2}
+2014-10-01 15:36:30,654 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3={'reportCol': 1, 'newColNum': 2}
+2014-10-01 15:36:30,654 - main - DEBUG - Using the following report structure: 
+ColumnStructures:
+   ReportName1:
+      dataGroup1:
+         columnName1: {reportCol: 1, newColNum: 0}
+         columnName2: {startAt: 15, newColNum: 1}
+
+      dataGroup2:
+         columnName3: {reportCol: 1, newColNum: 2}
+
+   ReportName2:
+      dataGroup3:
+         columnName1: {reportCol: 2, newColNum: 0}
+
+
