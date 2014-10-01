@@ -9,8 +9,7 @@ import logging
 import logging.config
 import yaml
 
-# import ReportStructure
-# import ReportData
+# ReportStucture & ReportData lives in AbstractReportDataExtractor
 
 logger = None
 
@@ -124,105 +123,30 @@ class DataExtractorRunner( object ):
   def load_column_structures( self ):
     
     column_structures = self.config['ColumnStructures']
-    # cs=column_structures
-    
-    # for eachReportKey in column_structures:
-    #     print eachReportKey, cs[ eachReportKey ]
-    #     logger.debug( "Creating report structure: {}".format( eachReportKey ) )
-        
-        # dataGroups = cs[ eachReportKey ]
-        # for eachDataGroupKey in dataGroups:
-        #     print eachDataGroupKey, dataGroups[ eachDataGroupKey ]
-        #     dataColumns = dataGroups[ eachDataGroupKey ]
-        #     for eachColumn in dataColumns:
-        #         print eachColumn, dataColumns[ eachColumn ]
-    
-    
-    
+
     for eachReportStructureName in column_structures:
-      #logger.warn( '\t\t* report name: {}'.format ( eachReportStructureName ) ) #   column_structures[ eachReportName ] ) )
       # Append the reportSpec:
       self.dataExtractor.appendReportSpec( eachReportStructureName )
       data_groups = column_structures[ eachReportStructureName ]
       
       for eachDataGroupName in data_groups:
-        #logger.warn( '\t\t* data group: {}'.format ( eachDataGroupName ) ) # data_groups[ eachDataGroup ]))
         # Append the data group spec:
         dg=self.dataExtractor.appendDataGroupSpec( eachReportStructureName, eachDataGroupName )
         
         column_names = data_groups[ eachDataGroupName ]
         for eachColumnName in column_names:
-          #logger.warn( '\t\t* column names: {}'.format ( eachColumnName ) ) # column_names[ eachColumnName ] ) )
+          # Append the column spec:
           self.dataExtractor.appendColumnSpecIntoDatagroup( dg, eachColumnName, column_names[ eachColumnName ] )
     pass
 
-    logger.critical( self.dataExtractor.dumpReportStructure() )
-
-
-  # """
-  #   Initializes for a report.  Uses reportStructureName requested.
-  #   Throws BadReportCollectorException if reportStructureName already existed.
-  # """
-  # def appendReportSpec( self, reportStructureName ):
-
-  #   # If reportStructureName already exists
-  #   if reportStructureName in self.ReportStructures:
-  #     errorMsg = "Tried to add report structure for '{}'.  Structure already exists.".format( reportStructureName )
-  #     logger.critical( errorMsg )
-  #     raise BadReportCollectorException( logMsg )
-
-  #   self.ReportStructures[ reportStructureName ] = ReportStructure()
-
-
-  # """
-  #   Add report structures by data groups.
-  #   Throws BadReportCollectorException if reportStructureName does not exist,
-  #   or if dataGroupName already exists.
-  # """
-  # def appendDataGroupSpec( self, reportStuctureName, dataGroupName ):
-  #   if not self.ReportStructures.get( reportStructureName ):
-      
-  #     errorMsg = "Requested report structure '{}' does not exist.".format( reportStructureName )
-  #     logger.critical( errorMsg )
-  #     raise BadReportCollectorException( logMsg )
-      
-  #   rptStructure = self.ReportStructures[ reportStructureName ]
-    
-  #   # If datagroup already exists
-  #   if dataGroupName in rptStructure:
-  #     errorMsg = "Tried to add data group structure for '{}.{}'.  Structure already exists.".format( reportStructureName, dataGroupName)
-  #     logger.critical( errorMsg )
-  #     raise BadReportCollectorException( logMsg )
-
-  #   newDataGroup = rptStructure.createDataGroupStructure( dataGroupName )
-  #   return newDataGroup
-  
-
-  # """
-  #   Add column structure into datagroup.
-  #   Throws BadReportCollectorException if columnName already exists.
-  # """
-  
-  # def appendColumnSpecIntoDatagroup( self, dataGroup, columnName, columnSpec ):
-    
-  #   reportName = dataGroup.reportName
-  #   dataGroupName = dataGroup.groupName
-
-  #   rptColStructure=self.reportStructures[ reportName ][ dataGroupName ].columns.get( columnName )
-  #   if rptColStructure:
-      
-  #     errorMsg = "Tried to add coloum structure for '{}.{}.{}'.  Structure already exists.".format( reportName, dataGroupName, columnName)
-  #     logger.critical( errorMsg )
-  #     raise BadReportCollectorException( logMsg )
-    
-  #   self.reportStructures[ reportName ][ dataGroupName ].columns[ columnName ]=columnSpec
-
-
+    logger.debug( "Using the following report structure: {}".format( self.dataExtractor.dumpReportStructure() ) )
+    # To dump in one line, as object: logger.critical( yaml.load( self.dataExtractor.dumpReportStructure() ) )
 
 
 
 """
-  Error codes:
+  Script return codes:
+  0 = Successful execution
   1 = Exception related to command entered ( ie, missing / bad config file )
   2 = User broke out of script
   

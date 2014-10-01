@@ -51,7 +51,6 @@ class AbstractReportStructure( object ):
       logger.critical( errMsg )
       raise DataGroupStructureAlreadyExists( errMsg )
       
-    #logger.critical( "{},{}".format( self.reportName, dataGroupName) )
     newDataGroupStructure = ReportDataGroup( self.reportName, dataGroupName )
     self.DataGroupStructures[ dataGroupName ] = newDataGroupStructure
     logger.debug("+ ({}) {}={}".format( self.reportName, dataGroupName, self.DataGroupStructures[ dataGroupName ] ) )
@@ -86,28 +85,19 @@ class AbstractReportStructure( object ):
 
 
   def dumpReportStructure( self ):
-    
+
+      # Return report structure as YAML:
+      
       returnString=[]
     
+      tab=' '*3 # YAML doesn't seem to recognize tabs as whitespace
+    
       for eachDataGroupName in sorted(self.DataGroupStructures):
-        returnString.append( "'{}': {{".format( eachDataGroupName ) )
+        returnString.append( "{}{}{}:\n".format( tab,tab,eachDataGroupName ) )
         
         for eachColumn in sorted(self.DataGroupStructures[eachDataGroupName].columns):
-          returnString.append( "'{}': {},".format(eachColumn, self.DataGroupStructures[eachDataGroupName].columns[eachColumn] ) )
-        returnString.append("},")
+          returnString.append( "{}{}{}{}: {}\n".format(tab,tab,tab,eachColumn, str(self.DataGroupStructures[eachDataGroupName].columns[eachColumn]).replace("'",'') ) )
+        returnString.append("\n")
         
       return ''.join( returnString )
-    
-
-
-# {'ColumnStructures':
-# - {'ReportName1': {
-#  'dataGroup1': {'columnName1': [0, 1],
-#                 'columnName2': [1, '-', 15]},
-#  'dataGroup2': {'columnName3': [0, 2]}
-# - },
-# - 'ReportName2': {
-#  'dataGroup3': {'columnName1': [0, 1]}
-# - }
-# - },
 

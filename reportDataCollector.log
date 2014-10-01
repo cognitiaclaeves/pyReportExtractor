@@ -3065,3 +3065,400 @@ expected the node content, but found '<stream end>'
   in "<string>", line 1, column 206:
      ... ': {'columnName1': [0, 1],},},},
                                          ^
+2014-09-30 21:54:55,203 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-09-30 21:54:55,203 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f33d29d2a50>
+2014-09-30 21:54:55,203 - main - INFO - Loading Config: sampleConfig.yaml
+2014-09-30 21:54:55,215 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-09-30 21:54:55,215 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-09-30 21:54:55,215 - main - INFO - Config setting all log levels to 10.
+2014-09-30 21:54:55,216 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-09-30 21:54:55,218 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-09-30 21:54:55,218 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f33d29f5a90>)
+2014-09-30 21:54:55,218 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f33d29f5a90>
+2014-09-30 21:54:55,218 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f33d29f5a90>
+2014-09-30 21:54:55,218 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f33d29f5910>
+2014-09-30 21:54:55,218 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f33d29f5910>
+2014-09-30 21:54:55,218 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5590>
+2014-09-30 21:54:55,219 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5590>
+2014-09-30 21:54:55,219 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-09-30 21:54:55,219 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-09-30 21:54:55,219 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f33d29f5dd0>
+2014-09-30 21:54:55,219 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f33d29f5dd0>
+2014-09-30 21:54:55,219 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5fd0>
+2014-09-30 21:54:55,219 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5fd0>
+2014-09-30 21:54:55,219 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-09-30 21:54:55,220 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-09-30 21:54:55,220 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-09-30 21:54:55,220 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-09-30 21:54:55,220 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5b50>
+2014-09-30 21:54:55,220 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f33d29f5b50>
+2014-09-30 21:54:55,220 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-09-30 21:54:55,220 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-09-30 21:54:55,220 - main - CRITICAL - {'ColumnStructures': {'ReportName1': {'dataGroup1': {'columnName1': [0, 1],'columnName2': [1, '-', 15],},'dataGroup2': {'columnName3': [0, 2],},},'ReportName2': {'dataGroup3': {'columnName1': [0, 1],},},},
+2014-10-01 13:18:23,313 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:18:23,313 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f00e0480b90>
+2014-10-01 13:18:23,314 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:18:23,443 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:18:23,444 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:18:23,444 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:18:23,445 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:18:23,445 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:18:23,446 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f00e0480cd0>)
+2014-10-01 13:18:23,447 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f00e0480cd0>
+2014-10-01 13:18:23,447 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f00e0480cd0>
+2014-10-01 13:18:23,447 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f00d9f3fed0>
+2014-10-01 13:18:23,448 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f00d9f3fed0>
+2014-10-01 13:18:23,448 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3ff50>
+2014-10-01 13:18:23,449 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3ff50>
+2014-10-01 13:18:23,449 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:18:23,450 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:18:23,450 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f00d9f3ff90>
+2014-10-01 13:18:23,450 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f00d9f3ff90>
+2014-10-01 13:18:23,451 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3ffd0>
+2014-10-01 13:18:23,451 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3ffd0>
+2014-10-01 13:18:23,452 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:18:23,452 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:18:23,452 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:18:23,453 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:18:23,453 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3fe50>
+2014-10-01 13:18:23,454 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f00d9f3fe50>
+2014-10-01 13:18:23,454 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:18:23,454 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:18:23,455 - main - ERROR - General error initializing report extractor with config.
+Traceback (most recent call last):
+  File "/home/jae/notebooks/pyReportExtractor/pyReportExtractor.py", line 273, in <module>
+    runner.load_column_structures()
+  File "/home/jae/notebooks/pyReportExtractor/pyReportExtractor.py", line 159, in load_column_structures
+    logger.critical( self.dataExtractor.dumpReportStructure() )
+AttributeError: 'SampleDataCollector' object has no attribute 'dumpReportStructure'
+2014-10-01 13:18:47,862 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:18:47,862 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f7043de5a50>
+2014-10-01 13:18:47,862 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:18:47,874 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:18:47,874 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:18:47,874 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:18:47,874 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:18:47,874 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:18:47,875 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f7043e08590>)
+2014-10-01 13:18:47,875 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f7043e08590>
+2014-10-01 13:18:47,875 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f7043e08590>
+2014-10-01 13:18:47,875 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f7043e08910>
+2014-10-01 13:18:47,875 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f7043e08910>
+2014-10-01 13:18:47,875 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08d90>
+2014-10-01 13:18:47,875 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08d90>
+2014-10-01 13:18:47,875 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:18:47,875 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:18:47,875 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f7043e08b50>
+2014-10-01 13:18:47,875 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f7043e08b50>
+2014-10-01 13:18:47,875 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08850>
+2014-10-01 13:18:47,876 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08850>
+2014-10-01 13:18:47,876 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:18:47,876 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:18:47,876 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:18:47,876 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:18:47,876 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08f50>
+2014-10-01 13:18:47,876 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f7043e08f50>
+2014-10-01 13:18:47,876 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:18:47,876 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:18:47,876 - main - CRITICAL - {'ColumnStructures': {'ReportName1': {'dataGroup1': {'columnName1': [0, 1],'columnName2': [1, '-', 15],},'dataGroup2': {'columnName3': [0, 2],},},'ReportName2': {'dataGroup3': {'columnName1': [0, 1],},},},
+2014-10-01 13:41:08,157 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:41:08,157 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f19b4522a50>
+2014-10-01 13:41:08,157 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:41:08,168 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:41:08,168 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:41:08,168 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:41:08,168 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:41:08,171 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:41:08,171 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f19b4545210>)
+2014-10-01 13:41:08,171 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f19b4545210>
+2014-10-01 13:41:08,171 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f19b4545210>
+2014-10-01 13:41:08,171 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f19b4545910>
+2014-10-01 13:41:08,171 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f19b4545910>
+2014-10-01 13:41:08,171 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545a90>
+2014-10-01 13:41:08,172 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545a90>
+2014-10-01 13:41:08,172 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:41:08,172 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:41:08,172 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f19b4545e90>
+2014-10-01 13:41:08,172 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f19b4545e90>
+2014-10-01 13:41:08,172 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545f50>
+2014-10-01 13:41:08,172 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545f50>
+2014-10-01 13:41:08,172 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:41:08,172 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:41:08,173 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:41:08,173 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:41:08,173 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545dd0>
+2014-10-01 13:41:08,173 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f19b4545dd0>
+2014-10-01 13:41:08,173 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:41:08,173 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:41:08,173 - main - CRITICAL - ColumnStructures:	ReportName1:
+		dataGroup1:
+			columnName1: [0, 1]
+,			columnName2: [1, -, 15]
+,
+		dataGroup2:
+			columnName3: [0, 2]
+,
+
+	ReportName2:
+		dataGroup3:
+			columnName1: [0, 1]
+,
+
+
+
+2014-10-01 13:41:56,403 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:41:56,403 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7effdcb2ea50>
+2014-10-01 13:41:56,403 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:41:56,415 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:41:56,415 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:41:56,415 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:41:56,415 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:41:56,417 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:41:56,417 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7effdcb51a90>)
+2014-10-01 13:41:56,417 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7effdcb51a90>
+2014-10-01 13:41:56,417 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7effdcb51a90>
+2014-10-01 13:41:56,417 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7effdcb51910>
+2014-10-01 13:41:56,417 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7effdcb51910>
+2014-10-01 13:41:56,417 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51590>
+2014-10-01 13:41:56,417 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51590>
+2014-10-01 13:41:56,417 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:41:56,417 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:41:56,417 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7effdcb51dd0>
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7effdcb51dd0>
+2014-10-01 13:41:56,418 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51fd0>
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51fd0>
+2014-10-01 13:41:56,418 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:41:56,418 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:41:56,418 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51b50>
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7effdcb51b50>
+2014-10-01 13:41:56,418 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:41:56,418 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:41:56,418 - main - CRITICAL - 
+ColumnStructures:
+	ReportName1:
+		dataGroup1:
+			columnName1: [0, 1]
+,			columnName2: [1, -, 15]
+,
+		dataGroup2:
+			columnName3: [0, 2]
+,
+
+	ReportName2:
+		dataGroup3:
+			columnName1: [0, 1]
+,
+
+
+2014-10-01 13:42:12,164 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:42:12,164 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7faf81a0aa50>
+2014-10-01 13:42:12,164 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:42:12,176 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:42:12,176 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:42:12,176 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:42:12,176 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:42:12,178 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:42:12,178 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7faf81a2da90>)
+2014-10-01 13:42:12,178 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7faf81a2da90>
+2014-10-01 13:42:12,178 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7faf81a2da90>
+2014-10-01 13:42:12,178 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7faf81a2d910>
+2014-10-01 13:42:12,178 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7faf81a2d910>
+2014-10-01 13:42:12,178 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2d590>
+2014-10-01 13:42:12,178 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2d590>
+2014-10-01 13:42:12,179 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:42:12,179 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:42:12,179 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7faf81a2ddd0>
+2014-10-01 13:42:12,179 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7faf81a2ddd0>
+2014-10-01 13:42:12,179 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2dfd0>
+2014-10-01 13:42:12,179 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2dfd0>
+2014-10-01 13:42:12,179 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:42:12,179 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:42:12,179 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:42:12,179 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:42:12,180 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2db50>
+2014-10-01 13:42:12,180 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7faf81a2db50>
+2014-10-01 13:42:12,180 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:42:12,180 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:42:12,180 - main - CRITICAL - 
+ColumnStructures:
+	ReportName1:
+		dataGroup1:
+			columnName1: [0, 1]
+,			columnName2: [1, -, 15]
+,
+		dataGroup2:
+			columnName3: [0, 2]
+,
+	ReportName2:
+		dataGroup3:
+			columnName1: [0, 1]
+,
+
+2014-10-01 13:43:16,601 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:43:16,601 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f3545175a50>
+2014-10-01 13:43:16,601 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:43:16,613 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:43:16,613 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:43:16,613 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:43:16,613 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:43:16,615 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:43:16,615 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f3545198a90>)
+2014-10-01 13:43:16,615 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f3545198a90>
+2014-10-01 13:43:16,615 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f3545198a90>
+2014-10-01 13:43:16,615 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f3545198910>
+2014-10-01 13:43:16,616 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f3545198910>
+2014-10-01 13:43:16,616 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f3545198590>
+2014-10-01 13:43:16,616 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f3545198590>
+2014-10-01 13:43:16,616 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:43:16,616 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:43:16,616 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f3545198dd0>
+2014-10-01 13:43:16,616 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f3545198dd0>
+2014-10-01 13:43:16,616 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f3545198fd0>
+2014-10-01 13:43:16,616 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f3545198fd0>
+2014-10-01 13:43:16,616 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:43:16,617 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:43:16,617 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:43:16,617 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:43:16,617 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f3545198b50>
+2014-10-01 13:43:16,617 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f3545198b50>
+2014-10-01 13:43:16,617 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:43:16,617 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:43:16,617 - main - CRITICAL - 
+ColumnStructures:
+	ReportName1:
+		dataGroup1:
+			columnName1: [0, 1]
+			columnName2: [1, -, 15]
+
+		dataGroup2:
+			columnName3: [0, 2]
+
+	ReportName2:
+		dataGroup3:
+			columnName1: [0, 1]
+
+
+2014-10-01 13:47:27,474 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:47:27,474 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f74a9c94a50>
+2014-10-01 13:47:27,474 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:47:27,485 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:47:27,485 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:47:27,485 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:47:27,485 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:47:27,487 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:47:27,488 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f74a9cb7a90>)
+2014-10-01 13:47:27,488 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f74a9cb7a90>
+2014-10-01 13:47:27,488 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f74a9cb7a90>
+2014-10-01 13:47:27,488 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f74a9cb7910>
+2014-10-01 13:47:27,488 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f74a9cb7910>
+2014-10-01 13:47:27,488 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7590>
+2014-10-01 13:47:27,489 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7590>
+2014-10-01 13:47:27,489 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:47:27,489 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:47:27,489 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f74a9cb7dd0>
+2014-10-01 13:47:27,489 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f74a9cb7dd0>
+2014-10-01 13:47:27,489 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7fd0>
+2014-10-01 13:47:27,489 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7fd0>
+2014-10-01 13:47:27,489 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:47:27,490 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:47:27,490 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:47:27,490 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:47:27,490 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7b50>
+2014-10-01 13:47:27,490 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f74a9cb7b50>
+2014-10-01 13:47:27,490 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:47:27,490 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:47:27,490 - main - CRITICAL - 
+ColumnStructures:
+	ReportName1:
+		dataGroup1:
+			columnName1: [0, 1]
+			columnName2: [1, -, 15]
+
+		dataGroup2:
+			columnName3: [0, 2]
+
+	ReportName2:
+		dataGroup3:
+			columnName1: [0, 1]
+
+
+2014-10-01 13:47:27,491 - main - ERROR - General error initializing report extractor with config.
+Traceback (most recent call last):
+  File "pyReportExtractor.py", line 275, in <module>
+    runner.load_column_structures()
+  File "pyReportExtractor.py", line 160, in load_column_structures
+    logger.critical( yaml.load( self.dataExtractor.dumpReportStructure() ) )
+  File "/usr/lib/python2.7/dist-packages/yaml/__init__.py", line 71, in load
+    return loader.get_single_data()
+  File "/usr/lib/python2.7/dist-packages/yaml/constructor.py", line 37, in get_single_data
+    node = self.get_single_node()
+  File "/usr/lib/python2.7/dist-packages/yaml/composer.py", line 36, in get_single_node
+    document = self.compose_document()
+  File "/usr/lib/python2.7/dist-packages/yaml/composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+  File "/usr/lib/python2.7/dist-packages/yaml/composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+  File "/usr/lib/python2.7/dist-packages/yaml/composer.py", line 133, in compose_mapping_node
+    item_value = self.compose_node(node, item_key)
+  File "/usr/lib/python2.7/dist-packages/yaml/composer.py", line 64, in compose_node
+    if self.check_event(AliasEvent):
+  File "/usr/lib/python2.7/dist-packages/yaml/parser.py", line 98, in check_event
+    self.current_event = self.state()
+  File "/usr/lib/python2.7/dist-packages/yaml/parser.py", line 449, in parse_block_mapping_value
+    if not self.check_token(KeyToken, ValueToken, BlockEndToken):
+  File "/usr/lib/python2.7/dist-packages/yaml/scanner.py", line 116, in check_token
+    self.fetch_more_tokens()
+  File "/usr/lib/python2.7/dist-packages/yaml/scanner.py", line 257, in fetch_more_tokens
+    % ch.encode('utf-8'), self.get_mark())
+ScannerError: while scanning for the next token
+found character '\t' that cannot start any token
+  in "<string>", line 3, column 1:
+    	ReportName1:
+    ^
+2014-10-01 13:48:58,117 - main - DEBUG - ** ** ** ** ** ** Starting MAIN Logger
+2014-10-01 13:48:58,117 - main - DEBUG - DataExtractorRunner: <__main__.DataExtractorRunner object at 0x7f603cdaaa50>
+2014-10-01 13:48:58,118 - main - INFO - Loading Config: sampleConfig.yaml
+2014-10-01 13:48:58,128 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/InputReports exists.
+2014-10-01 13:48:58,128 - main - DEBUG - Validated path: /home/jae/notebooks/pyReportExtractor/WorkPath exists.
+2014-10-01 13:48:58,128 - main - INFO - Config setting all log levels to 10.
+2014-10-01 13:48:58,129 - main - DEBUG - Data extractor module.class: SampleDataCollectorModule.SampleDataCollector
+2014-10-01 13:48:58,130 - main - DEBUG - Modules: [<module 'SampleDataCollectorModule' from '/home/jae/notebooks/pyReportExtractor/SampleDataCollectorModule.pyc'>]
+2014-10-01 13:48:58,131 - main._DATACOL - DEBUG - Initializing (<SampleDataCollectorModule.SampleDataCollector object at 0x7f603cdcda90>)
+2014-10-01 13:48:58,131 - main.DATACOLL - DEBUG - Initializing <SampleDataCollectorModule.SampleDataCollector object at 0x7f603cdcda90>
+2014-10-01 13:48:58,131 - main - INFO - dataExtractor Class Instantiated: <SampleDataCollectorModule.SampleDataCollector object at 0x7f603cdcda90>
+2014-10-01 13:48:58,131 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f603cdcd910>
+2014-10-01 13:48:58,131 - main._DATACOL - DEBUG - + ReportName2=<ReportStructure.ReportStructure object at 0x7f603cdcd910>
+2014-10-01 13:48:58,131 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcd590>
+2014-10-01 13:48:58,131 - main._DATACOL - DEBUG - + ReportName2.dataGroup3=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcd590>
+2014-10-01 13:48:58,132 - main.RPTSTRCT - DEBUG - + (ReportName2) dataGroup3.columnName1=[0, 1]
+2014-10-01 13:48:58,132 - main._DATACOL - DEBUG - + ReportName2.dataGroup3.columnName1=[0, 1]
+2014-10-01 13:48:58,132 - main.RPTSTRCT - DEBUG - Initializing: <ReportStructure.ReportStructure object at 0x7f603cdcddd0>
+2014-10-01 13:48:58,132 - main._DATACOL - DEBUG - + ReportName1=<ReportStructure.ReportStructure object at 0x7f603cdcddd0>
+2014-10-01 13:48:58,132 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcdfd0>
+2014-10-01 13:48:58,132 - main._DATACOL - DEBUG - + ReportName1.dataGroup1=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcdfd0>
+2014-10-01 13:48:58,132 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:48:58,132 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName2=[1, '-', 15]
+2014-10-01 13:48:58,132 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup1.columnName1=[0, 1]
+2014-10-01 13:48:58,133 - main._DATACOL - DEBUG - + ReportName1.dataGroup1.columnName1=[0, 1]
+2014-10-01 13:48:58,133 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcdb50>
+2014-10-01 13:48:58,133 - main._DATACOL - DEBUG - + ReportName1.dataGroup2=<ReportDataGroup.ReportDataGroup object at 0x7f603cdcdb50>
+2014-10-01 13:48:58,133 - main.RPTSTRCT - DEBUG - + (ReportName1) dataGroup2.columnName3=[0, 2]
+2014-10-01 13:48:58,133 - main._DATACOL - DEBUG - + ReportName1.dataGroup2.columnName3=[0, 2]
+2014-10-01 13:48:58,133 - main - CRITICAL - 
+ColumnStructures:
+   ReportName1:
+      dataGroup1:
+         columnName1: [0, 1]
+         columnName2: [1, -, 15]
+
+      dataGroup2:
+         columnName3: [0, 2]
+
+   ReportName2:
+      dataGroup3:
+         columnName1: [0, 1]
+
+
+2014-10-01 13:48:58,136 - main - CRITICAL - {'ColumnStructures': {'ReportName2': {'dataGroup3': {'columnName1': [0, 1]}}, 'ReportName1': {'dataGroup1': {'columnName2': [1, '-', 15], 'columnName1': [0, 1]}, 'dataGroup2': {'columnName3': [0, 2]}}}}
