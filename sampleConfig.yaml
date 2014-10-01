@@ -21,18 +21,29 @@ Control:
 ColumnStructures:
   ReportName1: # Multiple reports allowed in order to merge reports into completed XLS file
     dataGroup1:
-      columnName1: [0,1]  # ( newDataColumnNumber, reportColumnNumber, start, length )
+      columnName1:
                           #   reportColumnNumber according to whitespace parsing; '-' if column can't be parsed by whitespace
                           #   start and length are optional;  if start is given and length is not, then from start until first whitespace
+        newColNum: 0
+        reportCol: 1
 
-      columnName2: [1,-,15]
+      columnName2:
       
+        newColNum: 1
+        startAt: 15
+        
     dataGroup2:
-      columnName3: [0,2]
+      columnName3:
       
+        newColumn: 0
+        reportCol: 2
+        
   ReportName2:
     dataGroup3:
-      columnName1: [0,1]
+      columnName1:
+      
+        newColumn: 0
+        reportCol: 2
       
 Regex:
   # regexName1: '%'
