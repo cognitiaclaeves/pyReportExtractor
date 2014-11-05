@@ -143,6 +143,34 @@ class DataExtractorRunner( object ):
     # To dump in one line, as object: logger.critical( yaml.load( self.dataExtractor.dumpReportStructure() ) )
 
 
+  def load_config(self, configFile):
+    
+    prospectiveCfgFile = configFile
+    if not os.path.exists( prospectiveCfgFile ):
+      logger.warn( "Config file '{}' is not found.".format( prospectiveCfgFile ) )
+      sys.exit(1)
+    
+    logger.debug( "DataExtractorRunner: {}".format( self ) )
+    logger.info( "Loading Config: {}".format( prospectiveCfgFile ) )
+    
+    runner.set_config ( yaml.load( open( prospectiveCfgFile,'r' ) ) )
+  
+    runner.validate_working_paths()
+    
+    loglevel=runner.config['Control']['LogLevel']
+  
+    # Set master LogLevel from config file:
+    # Note:  This affects what is output to the console, as well as what is logged to file
+    # Recommend setting loglevel to '*WARN' in config if not debugging,
+    #       and setting loglevel to '*DEBUG' while trying to create new report or troubleshooting.
+    # Be careful with changing logging settings in logging.conf.yaml, in addition,
+    #       as these settings will apply to *ALL* data collectors and can easily make things difficult to read.
+  
+    logger.info( "Config setting all log levels to {}.".format( loglevel ) )
+    logger.setLevel( loglevel )
+    
+    return self
+
 
 """
   Script return codes:
@@ -166,30 +194,8 @@ if __name__ == '__main__':
   logger = logging.getLogger('main')
   logger.debug( "** ** ** ** ** ** Starting MAIN Logger" )
 
-  prospectiveCfgFile = sys.argv[1]
-  if not os.path.exists( prospectiveCfgFile ):
-    logger.warn( "Config file '{}' is not found.".format( prospectiveCfgFile ) )
-    sys.exit(1)
-  
   runner = DataExtractorRunner()
-  logger.debug( "DataExtractorRunner: {}".format( runner ) )
-  logger.info( "Loading Config: {}".format( prospectiveCfgFile ) )
-  
-  runner.set_config ( yaml.load( open( prospectiveCfgFile,'r' ) ) )
-
-  runner.validate_working_paths()
-  
-  loglevel=runner.config['Control']['LogLevel']
-
-  # Set master LogLevel from config file:
-  # Note:  This affects what is output to the console, as well as what is logged to file
-  # Recommend setting loglevel to '*WARN' in config if not debugging,
-  #       and setting loglevel to '*DEBUG' while trying to create new report or troubleshooting.
-  # Be careful with changing logging settings in logging.conf.yaml, in addition,
-  #       as these settings will apply to *ALL* data collectors and can easily make things difficult to read.
-
-  logger.info( "Config setting all log levels to {}.".format( loglevel ) )
-  logger.setLevel( loglevel )
+  runner.load_config( sys.argv[1] )
 
   try:
     
