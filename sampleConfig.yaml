@@ -1,3 +1,4 @@
+
 # Copyright 2014 Douglas J. Norment for SourceApprentice
 # http://www.sourceapprentice.com
 
@@ -49,19 +50,19 @@ ProcessBatch:
   # All data will go into Data[ dataElement ]
     processFile:
       report_name1:
-        exclude_targets: [target1,target2,]
-        exclude_regexes: [regex_name,]
-        directives:
-          - [ Directive, dataGroupName, ... ]  # Runs directive on all lines in file
-          - [ matchTarget,  dataGroup1, target,  ]
-          - [ matchRegEx,   dataGroup2, regex_name,  ]
+      exclude_targets: [target1,target2,]
+      exclude_regexes: [regex_name,]
+      directives:
+        - [ Directive, dataGroupName, ... ]  # Runs directive on all lines in file
+        - [ matchTarget,  dataGroup1, target,  ]
+        - [ matchRegEx,   dataGroup2, regex_name,  ]
       
     processFile:
       report_name2:
-        exclude_targets: [target1,target2, ]
-        exclude_regexes: [regex_name, ]
-        directives:
-          - [ Directive, dataGroupName, ... ]   # Runs directive on all lines in file
+      exclude_targets: [target1,target2, ]
+      exclude_regexes: [regex_name, ]
+      directives:
+        - [ Directive, dataGroupName, ... ]   # Runs directive on all lines in file
 
 GetLookupTable: [ fileName: commissionTable.csv, lookup_name: thisLookupName ]
 
@@ -75,8 +76,8 @@ processData:
 WriteBatch:
     - [ newWorkbook, newWorkbook.xlsx ]
     - [ newTab, tabName ]
-    - [ writeDataGroup, dataGroup1 ]  # Generic write, row by row of data in dataGroup
-    - [ exec, writeDataGroup1, dataGroup1 ] # Specific write; defined in code in custom xxxDataExtractor module
-    - [ exec, formatTab, tabName ] # All formatting is specific to report
+    - [ writeDataGroup, dataGroup1 ]
+    - [ exec, writeDataGroup1, dataGroup1 ]
+    - [ exec, formatTab, tabName ]
 
 
